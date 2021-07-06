@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TASK_SPICEBLUE/static/css/main.e3879c9f.chunk.css",
+    "main.js": "/TASK_SPICEBLUE/static/js/main.66fe28f1.chunk.js",
+    "main.js.map": "/TASK_SPICEBLUE/static/js/main.66fe28f1.chunk.js.map",
+    "runtime-main.js": "/TASK_SPICEBLUE/static/js/runtime-main.a3b88b2c.js",
+    "runtime-main.js.map": "/TASK_SPICEBLUE/static/js/runtime-main.a3b88b2c.js.map",
+    "static/css/2.de424728.chunk.css": "/TASK_SPICEBLUE/static/css/2.de424728.chunk.css",
+    "static/js/2.a03072de.chunk.js": "/TASK_SPICEBLUE/static/js/2.a03072de.chunk.js",
+    "static/js/2.a03072de.chunk.js.map": "/TASK_SPICEBLUE/static/js/2.a03072de.chunk.js.map",
+    "index.html": "/TASK_SPICEBLUE/index.html",
+    "precache-manifest.17644dcd6872d1b96c7ce1d38d97d297.js": "/TASK_SPICEBLUE/precache-manifest.17644dcd6872d1b96c7ce1d38d97d297.js",
+    "service-worker.js": "/TASK_SPICEBLUE/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/TASK_SPICEBLUE/static/css/2.de424728.chunk.css.map",
+    "static/css/main.e3879c9f.chunk.css.map": "/TASK_SPICEBLUE/static/css/main.e3879c9f.chunk.css.map",
+    "static/js/2.a03072de.chunk.js.LICENSE.txt": "/TASK_SPICEBLUE/static/js/2.a03072de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b88b2c.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.a03072de.chunk.js",
+    "static/css/main.e3879c9f.chunk.css",
+    "static/js/main.66fe28f1.chunk.js"
+  ]
+}
